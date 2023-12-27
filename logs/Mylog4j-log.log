@@ -1,0 +1,40 @@
+[INFO ]2023-12-2112:53:55.870[main]utilities.Loggerload1)-The user is on Signin page of DS Algo portal
+[INFO ]2023-12-2112:53:56.258[main]utilities.Loggerload1)-The user enters arshsquashers@gmail.com and Welcome12#
+[INFO ]2023-12-2112:53:57.232[main]utilities.Loggerload1)-The user is logged in
+[INFO ]2023-12-2112:53:57.246[main]utilities.Loggerload1)-Title of current page isNumpyNinja
+[INFO ]2023-12-2112:53:57.648[main]utilities.Loggerload1)-User is in Arrays Module
+[INFO ]2023-12-2112:53:57.733[main]utilities.Loggerload1)-The user is on Array after logged in
+[INFO ]2023-12-2112:53:57.879[main]utilities.Loggerload1)-The user is in Array
+[INFO ]2023-12-2112:53:58.134[main]utilities.Loggerload1)-User clicks on Arrays in Python Link
+[INFO ]2023-12-2112:53:58.216[main]utilities.Loggerload1)-The user is redirected to Arrays in Python
+[INFO ]2023-12-2112:53:58.634[main]utilities.Loggerload1)-User clicks on try here button
+[INFO ]2023-12-2112:53:58.794[main]utilities.Loggerload1)-The user is redirected to Try Editor
+[INFO ]2023-12-2112:53:58.902[main]utilities.Loggerload1)-The user is in Array
+[INFO ]2023-12-2112:53:59.121[main]utilities.Loggerload1)-User clicks on Arrays Using List Link
+[INFO ]2023-12-2112:53:59.207[main]utilities.Loggerload1)-The user is redirected to Arrays Using List
+[INFO ]2023-12-2112:53:59.403[main]utilities.Loggerload1)-User clicks on try here button
+[INFO ]2023-12-2112:53:59.539[main]utilities.Loggerload1)-The user is redirected to Try Editor
+[INFO ]2023-12-2112:53:59.666[main]utilities.Loggerload1)-The user is in Array
+[INFO ]2023-12-2112:53:59.853[main]utilities.Loggerload1)-User clicks on Operations in Lists Link
+[INFO ]2023-12-2112:53:59.952[main]utilities.Loggerload1)-The user is redirected to Basic Operations in Lists
+[INFO ]2023-12-2112:54:00.162[main]utilities.Loggerload1)-User clicks on try here button
+[INFO ]2023-12-2112:54:00.288[main]utilities.Loggerload1)-The user is redirected to Try Editor
+[INFO ]2023-12-2112:54:00.438[main]utilities.Loggerload1)-The user is in Array
+[INFO ]2023-12-2112:54:00.649[main]utilities.Loggerload1)-User clicks on Application of Array Link
+[INFO ]2023-12-2112:54:00.737[main]utilities.Loggerload1)-The user is redirected to Applications of Array
+[INFO ]2023-12-2112:54:00.952[main]utilities.Loggerload1)-User clicks on try here button
+[INFO ]2023-12-2112:54:01.086[main]utilities.Loggerload1)-The user is redirected to Try Editor
+[INFO ]2023-12-2112:54:01.222[main]utilities.Loggerload1)-The user is in Array
+[INFO ]2023-12-2112:54:01.410[main]utilities.Loggerload1)-User clicks on Application of Array Link
+[INFO ]2023-12-2112:54:01.537[main]utilities.Loggerload1)-The user is redirected to Arrays in Python
+[INFO ]2023-12-2112:54:01.692[main]utilities.Loggerload1)-User clicks on Practice Questions Link
+[INFO ]2023-12-2112:54:01.783[main]utilities.Loggerload1)-The user is redirected to Practice Questions
+[INFO ]2023-12-2112:54:01.966[main]utilities.Loggerload1)-The user is in Practice Questions
+[INFO ]2023-12-2112:54:02.162[main]utilities.Loggerload1)-The user is redirected to Search the array
+[INFO ]2023-12-2112:54:02.175[main]utilities.Loggerload1)-The user is on Questionpage of Search the array after logged in
+[INFO ]2023-12-2112:54:02.331[main]utilities.Loggerload1)-Click on Run button
+[INFO ]2023-12-2112:54:02.554[main]utilities.Loggerload1)-The user is on Questionpage of Search the array after logged in
+[INFO ]2023-12-2112:54:02.752[main]utilities.Loggerload1)-Click on Submit button
+[INFO ]2023-12-2112:54:03.486[main]utilities.Loggerload1)-Actual result of successful submission message :Error occurred during submission
+[INFO ]2023-12-2112:54:03.517[main]utilities.Loggerload1)-The user is on Questionpage of Search the array after logged in
+[INFO ]2023-12-2112:54:03.643[main]utilities.Loggerload1)-The user enter python code with invalid syntax in tryEditor from sheetname :pythonCode and row number : 1
